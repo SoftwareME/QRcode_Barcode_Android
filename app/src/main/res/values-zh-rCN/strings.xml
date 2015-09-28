@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">二维码扫描</string>
+    <string name="hello_world">你好，世界!</string>
+    <string name="menu_settings">设置</string>
+    <string name="scan_text">请将方框对准二维码</string>
+    <string name="btn_back_text">返回</string>
+    <string name="function_description">扫描二维码</string>
+    <string name="btn_open_txt">打开</string>
+    <string name="btn_download_txt">下载</string>
+
+</resources>

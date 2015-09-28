@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xuqiliang/Documents/AndroidWork/github/QR_CodeScan-master1/app/libs/zxing.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/xuqiliang/Documents/AndroidWork/github/QR_CodeScan-master1/app/build/intermediates/pre-dexed/debug/zxing-24da9b9a5aee8c6c4fb481d0449ca2077f6be928.jar" />
+    </item>
+    <item
+        jar="/Users/xuqiliang/Documents/AndroidApplication/sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Users/xuqiliang/Documents/AndroidWork/github/QR_CodeScan-master1/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0-6d8bab1eb4b2b7635cca5ce8e803bca6fabef57e.jar" />
+    </item>
+
+</items>
